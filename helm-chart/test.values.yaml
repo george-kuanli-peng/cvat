@@ -34,3 +34,7 @@ traefik:
     access:
       enabled: true
 
+keydb:
+  resources:
+    requests:
+
